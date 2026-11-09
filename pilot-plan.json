@@ -1,0 +1,29 @@
+{
+  "pilot_name": "Northline Supply / Order intake pilot",
+  "operations_owner": "Operations lead",
+  "integration_owner": "Integration engineer",
+  "min_completion_pct": 95,
+  "max_p95_ms": 900,
+  "expected_orders": [
+    "NL-4101",
+    "NL-4102",
+    "NL-4103",
+    "NL-4104",
+    "NL-4105",
+    "NL-4106",
+    "NL-4107",
+    "NL-4108",
+    "NL-4109",
+    "NL-4110",
+    "NL-4111",
+    "NL-4112",
+    "NL-4113",
+    "NL-4114",
+    "NL-4115",
+    "NL-4116",
+    "NL-4117",
+    "NL-4118",
+    "NL-4119",
+    "NL-4120"
+  ]
+}
